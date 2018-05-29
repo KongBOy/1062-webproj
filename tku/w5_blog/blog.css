@@ -8,27 +8,27 @@ body {
     font-family: 'Source Sans Pro';
 }
 
-.post {
+#w5_blog .post {
    margin-bottom: 20px;
 }
 
-.date {
+#w5_blog .date {
   text-transform: uppercase;
   letter-spacing: 0.2em;
     color: #3498db;
 }
 
-.quote{
+#w5_blog .quote{
   border-left: 5px solid #bdc3c7;
   padding: 5px;
 }
     
-h2 {
+#w5_blog h2 {
   font-size: 2em;
   font-weight: bold;
   color: #374c60;
 }
 
-hr{
+#w5_blog hr{
   
 }
