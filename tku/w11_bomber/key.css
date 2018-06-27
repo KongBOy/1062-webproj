@@ -1,14 +1,14 @@
-body {
+#bomber_game {
     text-align:center;
     border: 10px solid maroon;
     width: 350px;
 }
 
-input {
+#bomber_game input {
     margin:10px;
 }
 
-#bombs img{
+#bomber_game #bombs img{
     width: 25px;
 }
 
